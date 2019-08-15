@@ -1,0 +1,5 @@
+.clasp.json
+src/config.*
+src/appsscript.json
+node_modules/
+.idea/
